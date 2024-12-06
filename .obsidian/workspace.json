@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hashing in DSA.md",
+                "file": "Hashmap&Hashset/Leetcode_1_ Two Sum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashing in DSA"
+              "title": "Leetcode_1_ Two Sum"
             }
           }
         ],
@@ -195,6 +195,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "23650a56897a54fa",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
         "currentTab": 4
@@ -211,23 +221,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95a1ff9adda14571",
+  "active": "ef8290eeb4b088e8",
   "lastOpenFiles": [
+    "Hashmap&Hashset/Leetcode_36_Valid Sudoku.md",
+    "Hashmap&Hashset/Leetcode_49_Group Anagrams.md",
+    "Hashmap&Hashset/Leetcode_1_ Two Sum.md",
+    "Hashmap&Hashset/Leetcode_169_Majority Element.md",
+    "Hashmap&Hashset/Leetcode_217_ Contains Duplicate.md",
+    "Hashmap&Hashset/Leetcode_242_Valid Anagrams.md",
     "Hashmap&Hashset/Leetcode_383_Ransome Note.md",
     "Hashing in DSA.md",
-    "Hashmap&Hashset/Leetcode_771_ Jewels & Stone.md",
-    "Hashmap&Hashset/Leetcode_242_Valid Anagrams.md",
-    "Hashmap&Hashset/Leetcode_217_ Contains Duplicate.md",
-    "Hashmap&Hashset/Leetcode_169_Majority Element.md",
-    "Hashmap&Hashset/Leetcode_128_Longest Consecutive Sequence.md",
-    "Hashmap&Hashset/Leetcode_49_Group Anagrams.md",
-    "Hashmap&Hashset/Leetcode_36_Valid Sudoku.md",
-    "Hashmap&Hashset/Leetcode_1_ Two Sum.md",
     "Collections.Counter.md",
     "Collections.defaultdict.md",
+    "Hashmap&Hashset/Leetcode_771_ Jewels & Stone.md",
+    "Hashmap&Hashset/Leetcode_128_Longest Consecutive Sequence.md",
     "Hashmap&Hashset/Leetcode_1189_ Maximum Number of Balloons.md",
     "Images/Two Sum.png",
     "Images",
